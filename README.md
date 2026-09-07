@@ -39,12 +39,7 @@
 
 <div align="center">
 
-### 🧊 3D Календарь активности // 3D Isometric Contributions
-
-<!-- 3D изометрический график коммитов в стиле Night View -->
-<p align="center">
-  <img src="profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D Isometric Contributions" />
-</p>
+### 📊 Активность коммитов // Commit Streak
 
 <!-- Стрик активности с неоновым фиолетовым кольцом пламени -->
 <p align="center">

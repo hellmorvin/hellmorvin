@@ -65,20 +65,9 @@
   <img src="profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D Isometric Contributions" />
 </p>
 
-<!-- Главная карточка: общая сводка + годовой график коммитов -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hellmorvin&theme=dracula" width="100%" alt="Profile Details & Activity" />
-</p>
-
 <!-- Стрик активности с неоновым фиолетовым кольцом пламени -->
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=hellmorvin&theme=dark&background=06060C&border=7C3AED&stroke=A855F7&ring=C084FC&fire=A855F7&currStreakNum=E2E8F0" alt="Streak Stats" />
-</p>
-
-<!-- Симметричный дуэт карточек: общая статистика + соотношение языков -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hellmorvin&theme=dracula" width="49%" alt="General Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hellmorvin&theme=dracula" width="49%" alt="Repos per Language" />
 </p>
 
 </div>

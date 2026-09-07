@@ -4,17 +4,15 @@
     <filter id="hex-shadow" x="-20%" y="-20%" width="140%" height="140%">
       <feDropShadow dx="0" dy="4" stdDeviation="5" flood-color="#000000" flood-opacity="0.5"/>
     </filter>
-    <filter id="purple-glow" x="-30%" y="-30%" width="160%" height="160%">
-      <feGaussianBlur stdDeviation="3" result="blur" />
+    <filter id="gold-glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="2.5" result="blur" />
       <feComposite in="SourceGraphic" in2="blur" operator="over" />
     </filter>
   </defs>
 
   <style>
     .hex-poly {
-      transition: transform 0.2s ease;
       stroke-width: 2.5;
-      cursor: pointer;
     }
     .hex-text {
       font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
@@ -85,21 +83,21 @@
 
   <!-- ==================== РЯД 2 (2 соты) ==================== -->
 
-  <!-- 8. TAILWIND -->
+  <!-- 8. TAILWIND (Исправлен и идеально отцентрован) -->
   <g transform="translate(160, 169)" filter="url(#hex-shadow)">
     <polygon points="42,0 84,24 84,72 42,96 0,72 0,24" fill="#06B6D4" stroke="#0891B2" class="hex-poly"/>
-    <!-- Waves Icon -->
-    <g transform="translate(23, 30) scale(0.15)" fill="#FFFFFF">
-      <path d="M128 200c0-53 43-96 96-96 66 0 77 48 116 48 26 0 45-18 45-44 0-4-1-8-2-12 36 17 61 54 61 96 0 53-43 96-96 96-66 0-77-48-116-48-26 0-45 18-45 44 0 4 1 8 2 12-36-17-61-54-61-96zm-128 96c0-53 43-96 96-96 66 0 77 48 116 48 26 0 45-18 45-44 0-4-1-8-2-12 36 17 61 54 61 96 0 53-43 96-96 96-66 0-77-48-116-48-26 0-45 18-45 44 0 4 1 8 2 12-36-17-61-54-61-96z"/>
+    <!-- Official Tailwind Vector Wave -->
+    <g transform="translate(19, 32) scale(1.9)" fill="#FFFFFF">
+      <path d="M12.001 4.8c-3.2 0-5.2 1.6-6 4.8 1.2-1.6 2.6-2.2 4.2-1.8.913.228 1.565.89 2.288 1.624C13.666 10.618 15.027 12 18.001 12c3.2 0 5.2-1.6 6-4.8-1.2 1.6-2.6 2.2-4.2 1.8-.913-.228-1.565-.89-2.288-1.624C16.337 6.182 14.976 4.8 12.001 4.8zm-6 7.2c-3.2 0-5.2 1.6-6 4.8 1.2-1.6 2.6-2.2 4.2-1.8.913.228 1.565.89 2.288 1.624 1.177 1.194 2.538 2.576 5.512 2.576 3.2 0 5.2-1.6 6-4.8-1.2 1.6-2.6 2.2-4.2 1.8-.913-.228-1.565-.89-2.288-1.624C10.337 13.382 8.976 12 6.001 12z"/>
     </g>
   </g>
 
   <!-- 9. LINUX -->
   <g transform="translate(250, 169)" filter="url(#hex-shadow)">
-    <polygon points="42,0 84,24 84,72 42,96 0,72 0,24" fill="#18181B" stroke="#A855F7" stroke-width="2.5" class="hex-poly"/>
-    <!-- Tux / Terminal -->
-    <text x="42" y="48" fill="#FACC15" font-size="18" class="hex-text">LINUX</text>
-    <text x="42" y="66" fill="#A855F7" font-size="12" class="hex-text" font-weight="600">SYS</text>
+    <polygon points="42,0 84,24 84,72 42,96 0,72 0,24" fill="#18181B" stroke="#FACC15" stroke-width="2.5" class="hex-poly"/>
+    <!-- Terminal Prompt -->
+    <text x="42" y="42" fill="#FACC15" font-size="20" class="hex-text" font-weight="900">#_</text>
+    <text x="42" y="65" fill="#E4E4E7" font-size="12" class="hex-text" font-weight="700" letter-spacing="1">LINUX</text>
   </g>
 
   <!-- ==================== РЯД 3 (1 сота по центру) ==================== -->
@@ -107,8 +105,9 @@
   <!-- 10. MORVIN / CYBER VIBE -->
   <g transform="translate(205, 246)" filter="url(#hex-shadow)">
     <polygon points="42,0 84,24 84,72 42,96 0,72 0,24" fill="#7C3AED" stroke="#C084FC" stroke-width="3" class="hex-poly"/>
-    <text x="42" y="44" fill="#FFFFFF" font-size="24" class="hex-text">⚡</text>
-    <text x="42" y="67" fill="#FFFFFF" font-size="11" class="hex-text" letter-spacing="1">MORVIN</text>
+    <!-- Glowing Golden Lightning Bolt -->
+    <path d="M43 25 L32 45 L41 45 L38 65 L52 42 L43 42 Z" fill="#FACC15" stroke="#FFF7ED" stroke-width="1.2" filter="url(#gold-glow)"/>
+    <text x="42" y="74" fill="#FFFFFF" font-size="11" class="hex-text" font-weight="800" letter-spacing="1.5">MORVIN</text>
   </g>
 
 </svg>

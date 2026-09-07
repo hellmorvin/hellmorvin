@@ -111,45 +111,6 @@ Current Focus   : System Internals, Reverse Engineering & Automation
   <img src="https://streak-stats.demolab.com/?user=hellmorvin&theme=dark&background=06060C&border=7C3AED&stroke=A855F7&ring=C084FC&fire=A855F7&currStreakNum=E2E8F0" alt="Streak Stats" />
 </div>
 
----
-
-### 🏆 Достижения // GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hellmorvin&theme=radical&no-frame=false&margin-w=10&row=1&column=7" width="98%" alt="GitHub Trophies" />
-</div>
-
----
-
-### 🐍 The Cyber Snake // Matrix Contrib
-
-<div align="center">
-  <!-- Фиолетовая змейка, ползающая по графику коммитов -->
-  <img src="https://raw.githubusercontent.com/hellmorvin/hellmorvin/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
----
-
-### 🌐 Связь и Социальные сети // Uplink
-
-<div align="center">
-
-  <a href="https://t.me/YOUR_TELEGRAM" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="https://discord.com" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <a href="https://steamcommunity.com" target="_blank">
-    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
-  </a>
-  <a href="mailto:your_email@domain.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-</div>
-
-<br/>
 
 <div align="center">
   <!-- Неоновый футер -->

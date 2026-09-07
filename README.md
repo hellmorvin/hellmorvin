@@ -7,7 +7,7 @@
 
   <!-- ⚡ ДИНАМИЧЕСКАЯ БЕГУЩАЯ СТРОКА С ЭФФЕКТОМ ПЕЧАТИ -->
   <a href="https://github.com/hellmorvin">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1200&color=C084FC&center=true&vCenter=true&width=620&lines=%E2%9A%A1+Initializing+MORVIN's+Neural+Core...;echo+%22Welcome+to+the+neon+abyss%22;const+dev+%3D+%5B%22TypeScript%22%2C+%22PHP%22%2C+%22PowerShell%22%5D;Forging+clean+code+under+violet+lightning...;System.exit(0)+%2F%2F+Never+stop+building;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1200&color=C084FC&background=0D1117&center=true&vCenter=true&width=620&height=46&lines=%E2%9A%A1+MORVIN+%2F%2F+Neural+Core+Online;const+stack+%3D+%5B%22TypeScript%22%2C+%22PHP%22%2C+%22PowerShell%22%5D;while+(alive)+%7B+forge_future()%3B+%7D;git+commit+-m+%22Digital+Reality+Overridden%22;process.exit(0)+%2F%2F+Never+Stop+Building+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 
   <br/>

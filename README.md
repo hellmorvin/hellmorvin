@@ -48,23 +48,9 @@
 
 <div align="center">
 
-### 🔮 Технологический арсенал // Tech Arsenal
+### 🔮 Мой стек технологий // Tech Stack
 
-<!-- Сетка иконок в темной теме по 10 в ряд -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,php,powershell,bash,html,css,nodejs,react,electron&perline=10&theme=dark" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=tailwind,sass,express,nextjs,vscode,git,github,windows,linux&perline=10&theme=dark" />
-</p>
-
-<!-- Фирменные неоновые бейджи ключевых технологий -->
-<p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cyberpunk%20Theme-7C3AED?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-</p>
+<img src="tech-stack.svg" width="500px" alt="Honeycomb Tech Stack" />
 
 </div>
 

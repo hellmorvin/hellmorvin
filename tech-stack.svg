@@ -1,0 +1,114 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 360" width="100%" height="100%">
+  <defs>
+    <!-- Неоновое свечение и мягкая тень -->
+    <filter id="hex-shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="4" stdDeviation="5" flood-color="#000000" flood-opacity="0.5"/>
+    </filter>
+    <filter id="purple-glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <style>
+    .hex-poly {
+      transition: transform 0.2s ease;
+      stroke-width: 2.5;
+      cursor: pointer;
+    }
+    .hex-text {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+      font-weight: 800;
+      text-anchor: middle;
+      dominant-baseline: central;
+    }
+  </style>
+
+  <!-- ==================== РЯД 0 (4 соты) ==================== -->
+
+  <!-- 1. JAVASCRIPT -->
+  <g transform="translate(70, 15)" filter="url(#hex-shadow)">
+    <polygon points="42,0 84,24 84,72 42,96 0,72 0,24" fill="#F7DF1E" stroke="#E5C50B" class="hex-poly"/>
+    <text x="42" y="50" fill="#000000" font-size="28" class="hex-text">JS</text>
+  </g>
+
+  <!-- 2. REACT -->
+  <g transform="translate(160, 15)" filter="url(#hex-shadow)">
+    <polygon points="42,0 84,24 84,72 42,96 0,72 0,24" fill="#00D8FF" stroke="#00B2D6" class="hex-poly"/>
+    <!-- React Atom Icon -->
+    <g transform="translate(42, 48) scale(0.75)">
+      <ellipse rx="22" ry="8" fill="none" stroke="#FFFFFF" stroke-width="2.8"/>
+      <ellipse rx="22" ry="8" transform="rotate(60)" fill="none" stroke="#FFFFFF" stroke-width="2.8"/>
+      <ellipse rx="22" ry="8" transform="rotate(120)" fill="none" stroke="#FFFFFF" stroke-width="2.8"/>
+      <circle r="4" fill="#FFFFFF"/>
+    </g>
+  </g>
+
+  <!-- 3. PHP -->
+  <g transform="translate(250, 15)" filter="url(#hex-shadow)">
+    <polygon points="42,0 84,24 84,72 42,96 0,72 0,24" fill="#777BB4" stroke="#5A5F96" class="hex-poly"/>
+    <text x="42" y="50" fill="#FFFFFF" font-size="24" class="hex-text">PHP</text>
+  </g>
+
+  <!-- 4. GIT -->
+  <g transform="translate(340, 15)" filter="url(#hex-shadow)">
+    <polygon points="42,0 84,24 84,72 42,96 0,72 0,24" fill="#F05032" stroke="#CC3C22" class="hex-poly"/>
+    <!-- Git Branch Icon -->
+    <g transform="translate(26, 28) scale(1.35)" fill="#FFFFFF">
+      <path d="M19.4 12.3c-.6-.6-1.5-.7-2.2-.2l-2.6-2.6v-2c.6-.3 1.1-.9 1.1-1.7 0-1.1-.9-2-2-2s-2 .9-2 2c0 .8.5 1.4 1.1 1.7v5.5c-.6.3-1.1.9-1.1 1.7 0 .8.5 1.4 1.1 1.7v2c-.6.3-1.1.9-1.1 1.7 0 1.1.9 2 2 2s2-.9 2-2c0-.8-.5-1.4-1.1-1.7v-1.8l2.5 2.5c.7.5 1.6.4 2.2-.2.8-.8.8-2.1 0-2.9zM13.7 5.8c0-.4.3-.8.8-.8s.8.3.8.8-.3.8-.8.8-.8-.4-.8-.8zm.8 14.4c-.4 0-.8-.3-.8-.8s.3-.8.8-.8.8.3.8.8-.4.8-.8.8zm3.9-3.9c-.3.3-.8.3-1.1 0-.3-.3-.3-.8 0-1.1.3-.3.8-.3 1.1 0 .3.3.3.8 0 1.1z"/>
+    </g>
+  </g>
+
+  <!-- ==================== РЯД 1 (3 соты) ==================== -->
+
+  <!-- 5. TYPESCRIPT -->
+  <g transform="translate(115, 92)" filter="url(#hex-shadow)">
+    <polygon points="42,0 84,24 84,72 42,96 0,72 0,24" fill="#3178C6" stroke="#235A96" class="hex-poly"/>
+    <text x="42" y="50" fill="#FFFFFF" font-size="28" class="hex-text">TS</text>
+  </g>
+
+  <!-- 6. NODE.JS -->
+  <g transform="translate(205, 92)" filter="url(#hex-shadow)">
+    <polygon points="42,0 84,24 84,72 42,96 0,72 0,24" fill="#339933" stroke="#267326" class="hex-poly"/>
+    <!-- Node Icon -->
+    <g transform="translate(42, 48) scale(0.95)">
+      <polygon points="0,-18 16,-9 16,9 0,18 -16,9 -16,-9" fill="none" stroke="#FFFFFF" stroke-width="2.6"/>
+      <text x="0" y="2" fill="#FFFFFF" font-size="14" class="hex-text" font-weight="900">NODE</text>
+    </g>
+  </g>
+
+  <!-- 7. POWERSHELL -->
+  <g transform="translate(295, 92)" filter="url(#hex-shadow)">
+    <polygon points="42,0 84,24 84,72 42,96 0,72 0,24" fill="#012456" stroke="#5391FE" stroke-width="3" class="hex-poly"/>
+    <text x="42" y="49" fill="#5391FE" font-size="27" class="hex-text">&gt;_</text>
+  </g>
+
+  <!-- ==================== РЯД 2 (2 соты) ==================== -->
+
+  <!-- 8. TAILWIND -->
+  <g transform="translate(160, 169)" filter="url(#hex-shadow)">
+    <polygon points="42,0 84,24 84,72 42,96 0,72 0,24" fill="#06B6D4" stroke="#0891B2" class="hex-poly"/>
+    <!-- Waves Icon -->
+    <g transform="translate(23, 30) scale(0.15)" fill="#FFFFFF">
+      <path d="M128 200c0-53 43-96 96-96 66 0 77 48 116 48 26 0 45-18 45-44 0-4-1-8-2-12 36 17 61 54 61 96 0 53-43 96-96 96-66 0-77-48-116-48-26 0-45 18-45 44 0 4 1 8 2 12-36-17-61-54-61-96zm-128 96c0-53 43-96 96-96 66 0 77 48 116 48 26 0 45-18 45-44 0-4-1-8-2-12 36 17 61 54 61 96 0 53-43 96-96 96-66 0-77-48-116-48-26 0-45 18-45 44 0 4 1 8 2 12-36-17-61-54-61-96z"/>
+    </g>
+  </g>
+
+  <!-- 9. LINUX -->
+  <g transform="translate(250, 169)" filter="url(#hex-shadow)">
+    <polygon points="42,0 84,24 84,72 42,96 0,72 0,24" fill="#18181B" stroke="#A855F7" stroke-width="2.5" class="hex-poly"/>
+    <!-- Tux / Terminal -->
+    <text x="42" y="48" fill="#FACC15" font-size="18" class="hex-text">LINUX</text>
+    <text x="42" y="66" fill="#A855F7" font-size="12" class="hex-text" font-weight="600">SYS</text>
+  </g>
+
+  <!-- ==================== РЯД 3 (1 сота по центру) ==================== -->
+
+  <!-- 10. MORVIN / CYBER VIBE -->
+  <g transform="translate(205, 246)" filter="url(#hex-shadow)">
+    <polygon points="42,0 84,24 84,72 42,96 0,72 0,24" fill="#7C3AED" stroke="#C084FC" stroke-width="3" class="hex-poly"/>
+    <text x="42" y="44" fill="#FFFFFF" font-size="24" class="hex-text">⚡</text>
+    <text x="42" y="67" fill="#FFFFFF" font-size="11" class="hex-text" letter-spacing="1">MORVIN</text>
+  </g>
+
+</svg>

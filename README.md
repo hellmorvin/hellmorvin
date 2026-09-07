@@ -36,20 +36,6 @@ Current Focus   : System Internals, Reverse Engineering & Automation
 ----------------------------------------------------------------
 ```
 
----
-
-### 🚀 Избранные проекты // Featured Projects
-
-<div align="center">
-
-| Репозиторий | Стек | Описание | Статус |
-| :--- | :---: | :--- | :---: |
-| [**NyronNetbook**](https://github.com/hellmorvin/NyronNetbook) | `TypeScript` `Node.js` | Современная платформа-блокнот и среда разработки | ⚡ В разработке |
-| [**DesignGhost**](https://github.com/hellmorvin/DesignGhost) | `JavaScript` `UI/UX` | Инструментарий и библиотека визуальных компонентов | 🎨 Активен |
-| [**AuraExplorer**](https://github.com/hellmorvin/AuraExplorer) | `PowerShell` `Win32` | Утилита для глубокого исследования системы и файлов | 🔮 Стабилен |
-| [**Security & Low-Level**](https://github.com/hellmorvin) | `PHP` `PowerShell` | Анализ безопасности скриптов, сетевых сокетов и систем | 🛡️ Исследования |
-
-</div>
 
 ---
 

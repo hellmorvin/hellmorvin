@@ -25,30 +25,7 @@
   <img src="cyber-banner.jpg" width="100%" alt="MORVIN Cyberpunk Artwork" />
 </div>
 
-```typescript
-/**
- * ⚡ MORVIN_CORE :: SYSTEM_EXEC [01101101.01101111]
- * DATA_STREAM   :: 01101101 01101111 01110010 01110110 01101001 01101110 (morvin)
- */
-class CyberEntity {
-  readonly identity = "MORVIN (hellmorvin)" as const;
-  readonly role     = "Fullstack Developer & Systems Explorer";
-  readonly status   = "🟢 ONLINE // Neural Link Active";
 
-  public coreStack = {
-    languages: ["TypeScript", "JavaScript", "PHP", "PowerShell"],
-    frontend : ["React", "TailwindCSS"],
-    backend  : ["Node.js", "Express"],
-    systems  : ["Linux", "Windows 11 Pro", "Git"]
-  };
-
-  public execute(): string {
-    return "Forging clean architecture in dark neon aesthetics. 🚀";
-  }
-}
-
-export default new CyberEntity();
-```
 
 ---
 

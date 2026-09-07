@@ -72,7 +72,12 @@
 
 <div align="center">
 
-### 📊 Аналитика и Активность // Analytics & Activity
+### 🧊 3D Календарь активности // 3D Isometric Contributions
+
+<!-- 3D изометрический график коммитов в стиле Night View -->
+<p align="center">
+  <img src="profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D Isometric Contributions" />
+</p>
 
 <!-- Главная карточка: общая сводка + годовой график коммитов -->
 <p align="center">

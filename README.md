@@ -3,7 +3,7 @@
   <!-- =============================== -->
   <!-- 🌌 NEON CYBERPUNK HEADER BANNER -->
   <!-- =============================== -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_colors=06060c,1e0933,4c1d95,7c3aed,a855f7&height=220&section=header&text=MORVIN&fontSize=70&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06060c,35:1e0933,70:4c1d95,100:7c3aed&height=220&section=header&text=MORVIN&fontSize=74&fontColor=ffffff&fontFamily=Consolas&stroke=c084fc&strokeWidth=2" width="100%" alt="Header" />
 
   <!-- ⚡ ДИНАМИЧЕСКАЯ БЕГУЩАЯ СТРОКА С ЭФФЕКТОМ ПЕЧАТИ -->
   <a href="https://github.com/hellmorvin">

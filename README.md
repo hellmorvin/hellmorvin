@@ -85,31 +85,23 @@ Current Focus   : System Internals, Reverse Engineering & Automation
 
 ---
 
-### 📈 Активность и График коммитов // Activity Stream
+### 📊 Статистика и График активности // Analytics & Activity
 
 <div align="center">
-  <!-- График коммитов в фиолетовом неоне за последний месяц -->
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=hellmorvin&bg_color=06060c&color=a855f7&line=c084fc&point=e040fb&area=true&hide_border=false&border_color=7c3aed" alt="Activity Graph" />
-</div>
-
----
-
-### 📊 Статистика профиля // Analytics Dashboard
-
-<div align="center">
-  <!-- Основная статистика GitHub в темных фиолетовых тонах -->
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=hellmorvin&show_icons=true&bg_color=06060c&title_color=c084fc&text_color=e2e8f0&icon_color=a855f7&border_color=7c3aed&rank_icon=github&count_private=true&include_all_commits=true" alt="MORVIN's GitHub Stats" />
-  
-  <!-- Топ языков -->
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hellmorvin&layout=compact&bg_color=06060c&title_color=c084fc&text_color=e2e8f0&border_color=7c3aed&hide_border=false" alt="Top Languages" />
+  <!-- Интерактивная карточка со статистикой и графиком активности за год -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hellmorvin&theme=dracula" width="100%" alt="Profile Details & Activity" />
 </div>
 
 <br/>
 
 <div align="center">
-  <!-- Дни подряд / Streak коммитов -->
-  <img src="https://streak-stats.demolab.com/?user=hellmorvin&theme=dark&background=06060C&border=7C3AED&stroke=A855F7&ring=C084FC&fire=A855F7&currStreakNum=E2E8F0" alt="Streak Stats" />
+  <!-- Стрик коммитов подряд с неоновым огнем -->
+  <img height="180px" src="https://streak-stats.demolab.com/?user=hellmorvin&theme=dark&background=06060C&border=7C3AED&stroke=A855F7&ring=C084FC&fire=A855F7&currStreakNum=E2E8F0" alt="Streak Stats" />
+  
+  <!-- Языки в репозиториях -->
+  <img height="180px" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hellmorvin&theme=dracula" alt="Repos per Language" />
 </div>
+
 
 
 <div align="center">

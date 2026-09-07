@@ -69,7 +69,7 @@ Current Focus   : System Internals, Reverse Engineering & Automation
 
 #### 🛡️ Инструменты, Системы & DevOps
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,windows,linux,postman,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,windows,linux&theme=dark" />
 </p>
 
 <!-- Неоновые бейджи с акцентом под стиль аватара -->

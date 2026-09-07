@@ -29,7 +29,7 @@ morvin@mainframe:~$ neofetch --profile
 User            : MORVIN (hellmorvin)
 Role            : Fullstack Developer & Cyber Security Explorer
 Status          : 🔴 [Online] Building Next-Gen Tools
-Core Stack      : TypeScript, JavaScript, Python, PowerShell
+Core Stack      : TypeScript, JavaScript, PHP, PowerShell
 Environment     : Windows 11 Pro / Arch Linux / Node.js
 Mindset         : "Forging clean architecture in dark neon aesthetics"
 Current Focus   : System Internals, Reverse Engineering & Automation
@@ -47,7 +47,7 @@ Current Focus   : System Internals, Reverse Engineering & Automation
 | [**NyronNetbook**](https://github.com/hellmorvin/NyronNetbook) | `TypeScript` `Node.js` | Современная платформа-блокнот и среда разработки | ⚡ В разработке |
 | [**DesignGhost**](https://github.com/hellmorvin/DesignGhost) | `JavaScript` `UI/UX` | Инструментарий и библиотека визуальных компонентов | 🎨 Активен |
 | [**AuraExplorer**](https://github.com/hellmorvin/AuraExplorer) | `PowerShell` `Win32` | Утилита для глубокого исследования системы и файлов | 🔮 Стабилен |
-| [**Security & Low-Level**](https://github.com/hellmorvin) | `Python` `PowerShell` | Анализ безопасности скриптов, сетевых сокетов и систем | 🛡️ Исследования |
+| [**Security & Low-Level**](https://github.com/hellmorvin) | `PHP` `PowerShell` | Анализ безопасности скриптов, сетевых сокетов и систем | 🛡️ Исследования |
 
 </div>
 
@@ -59,7 +59,7 @@ Current Focus   : System Internals, Reverse Engineering & Automation
 
 #### ⚡ Языки и Базовые технологии
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,py,powershell,bash,c,cpp,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts,js,php,powershell,bash,html,css&theme=dark" />
 </p>
 
 #### 🔮 Фреймворки, Среда & Библиотеки
@@ -76,8 +76,8 @@ Current Focus   : System Internals, Reverse Engineering & Automation
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Cyberpunk%20Theme-7C3AED?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 

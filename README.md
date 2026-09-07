@@ -19,23 +19,6 @@
 
 </div>
 
----
-
-### 🖥️ `system.info` // Cyberdeck Terminal
-
-```yaml
-morvin@mainframe:~$ neofetch --profile
-----------------------------------------------------------------
-User            : MORVIN (hellmorvin)
-Role            : Fullstack Developer & Cyber Security Explorer
-Status          : 🔴 [Online] Building Next-Gen Tools
-Core Stack      : TypeScript, JavaScript, PHP, PowerShell
-Environment     : Windows 11 Pro / Arch Linux / Node.js
-Mindset         : "Forging clean architecture in dark neon aesthetics"
-Current Focus   : System Internals, Reverse Engineering & Automation
-----------------------------------------------------------------
-```
-
 
 ---
 

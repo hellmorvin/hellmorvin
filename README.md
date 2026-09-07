@@ -7,41 +7,34 @@
 
   <!-- ⚡ ДИНАМИЧЕСКАЯ БЕГУЩАЯ СТРОКА С ЭФФЕКТОМ ПЕЧАТИ -->
   <a href="https://github.com/hellmorvin">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1200&color=C084FC&center=true&vCenter=true&width=620&lines=%E2%9A%A1+Initializing+MORVIN's+Neural+Core...;echo+%22Welcome+to+the+neon+abyss%22;const+dev+%3D+%5B%22TypeScript%22%2C+%22Security%22%2C+%22Architecture%22%5D;Forging+clean+code+under+violet+lightning...;System.exit(0)+%2F%2F+Never+stop+building;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1200&color=C084FC&center=true&vCenter=true&width=620&lines=%E2%9A%A1+Initializing+MORVIN's+Neural+Core...;echo+%22Welcome+to+the+neon+abyss%22;const+dev+%3D+%5B%22TypeScript%22%2C+%22PHP%22%2C+%22PowerShell%22%5D;Forging+clean+code+under+violet+lightning...;System.exit(0)+%2F%2F+Never+stop+building;" alt="Typing SVG" />
   </a>
 
   <br/>
 
-  <!-- СЧЕТЧИК ПОСЕТИТЕЛЕЙ ПРОФИЛЯ -->
+  <!-- СТАТУСНЫЕ НЕОНОВЫЕ БЕЙДЖИ И СЧЕТЧИК -->
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=hellmorvin&label=%E2%9A%A1%20PROFILE%20ACCESS%20COUNT&color=7c3aed&style=for-the-badge" alt="Profile Views" />
+    <img src="https://img.shields.io/badge/STATUS-ONLINE%20%E2%9A%A1-a855f7?style=for-the-badge&labelColor=090a12" />
+    <img src="https://img.shields.io/badge/FOCUS-SYSTEMS%20%26%20WEB-7c3aed?style=for-the-badge&labelColor=090a12" />
+    <img src="https://komarev.com/ghpvc/?username=hellmorvin&label=%E2%9A%A1%20PROFILE%20VIEWS&color=7c3aed&style=for-the-badge" alt="Profile Views" />
   </p>
 
 </div>
 
-
 ---
-
-### 🛠️ Арсенал и технологии // Tech Stack
 
 <div align="center">
 
-#### ⚡ Языки и Базовые технологии
+### 🔮 Технологический арсенал // Tech Arsenal
+
+<!-- Сетка иконок в темной теме по 10 в ряд -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,php,powershell,bash,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts,js,php,powershell,bash,html,css,nodejs,react,electron&perline=10&theme=dark" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=tailwind,sass,express,nextjs,vscode,git,github,windows,linux&perline=10&theme=dark" />
 </p>
 
-#### 🔮 Фреймворки, Среда & Библиотеки
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,react,electron,tailwind,sass,express,nextjs&theme=dark" />
-</p>
-
-#### 🛡️ Инструменты, Системы & DevOps
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,windows,linux&theme=dark" />
-</p>
-
-<!-- Неоновые бейджи с акцентом под стиль аватара -->
+<!-- Фирменные неоновые бейджи ключевых технологий -->
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -54,24 +47,29 @@
 
 ---
 
-### 📊 Статистика и График активности // Analytics & Activity
-
 <div align="center">
-  <!-- Интерактивная карточка со статистикой и графиком активности за год -->
+
+### 📊 Аналитика и Активность // Analytics & Activity
+
+<!-- Главная карточка: общая сводка + годовой график коммитов -->
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hellmorvin&theme=dracula" width="100%" alt="Profile Details & Activity" />
+</p>
+
+<!-- Стрик активности с неоновым фиолетовым кольцом пламени -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=hellmorvin&theme=dark&background=06060C&border=7C3AED&stroke=A855F7&ring=C084FC&fire=A855F7&currStreakNum=E2E8F0" alt="Streak Stats" />
+</p>
+
+<!-- Симметричный дуэт карточек: общая статистика + соотношение языков -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hellmorvin&theme=dracula" width="49%" alt="General Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hellmorvin&theme=dracula" width="49%" alt="Repos per Language" />
+</p>
+
 </div>
 
-<br/>
-
-<div align="center">
-  <!-- Стрик коммитов подряд с неоновым огнем -->
-  <img height="180px" src="https://streak-stats.demolab.com/?user=hellmorvin&theme=dark&background=06060C&border=7C3AED&stroke=A855F7&ring=C084FC&fire=A855F7&currStreakNum=E2E8F0" alt="Streak Stats" />
-  
-  <!-- Языки в репозиториях -->
-  <img height="180px" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hellmorvin&theme=dracula" alt="Repos per Language" />
-</div>
-
-
+---
 
 <div align="center">
   <!-- Неоновый футер -->

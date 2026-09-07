@@ -44,7 +44,6 @@
   <!-- 2. REACT -->
   <g transform="translate(160, 15)" filter="url(#hex-shadow)">
     <polygon points="42,0 84,24 84,72 42,96 0,72 0,24" fill="#00D8FF" stroke="#00B2D6" class="hex-poly"/>
-    <!-- React Atom Icon -->
     <g transform="translate(42, 48) scale(0.75)">
       <ellipse rx="22" ry="8" fill="none" stroke="#FFFFFF" stroke-width="2.8"/>
       <ellipse rx="22" ry="8" transform="rotate(60)" fill="none" stroke="#FFFFFF" stroke-width="2.8"/>
@@ -59,10 +58,9 @@
     <text x="42" y="50" fill="#FFFFFF" font-size="24" class="hex-text">PHP</text>
   </g>
 
-  <!-- 4. GIT (Официальный правильный логотип Git) -->
+  <!-- 4. GIT (Официальный логотип Git) -->
   <g transform="translate(340, 15)" filter="url(#hex-shadow)">
     <polygon points="42,0 84,24 84,72 42,96 0,72 0,24" fill="#F05032" stroke="#CC3C22" class="hex-poly"/>
-    <!-- Git Branch Icon -->
     <g transform="translate(22, 28) scale(1.65)" fill="#FFFFFF">
       <path d="M23.546 10.93L13.067.452c-.604-.603-1.582-.603-2.188 0L8.708 2.627l2.76 2.76c.645-.215 1.379-.07 1.889.441.516.515.658 1.258.438 1.9l2.658 2.66c.645-.223 1.387-.078 1.9.435.721.72.721 1.884 0 2.604-.719.719-1.881.719-2.6 0-.539-.541-.674-1.337-.404-1.996L12.86 8.955v6.525c.176.086.342.203.488.348.713.721.713 1.883 0 2.6-.719.721-1.889.721-2.609 0-.719-.719-.719-1.879 0-2.598.182-.18.387-.316.61-.406V8.814c-.223-.09-.428-.226-.61-.406-.541-.539-.672-1.334-.404-1.992L7.56 3.642 1.455 9.747c-.604.604-.604 1.581 0 2.186l10.479 10.48c.605.603 1.582.603 2.187 0l9.425-9.428c.604-.603.604-1.58 0-2.055z"/>
     </g>
@@ -79,7 +77,6 @@
   <!-- 6. NODE.JS -->
   <g transform="translate(205, 92)" filter="url(#hex-shadow)">
     <polygon points="42,0 84,24 84,72 42,96 0,72 0,24" fill="#339933" stroke="#267326" class="hex-poly"/>
-    <!-- Node Icon -->
     <g transform="translate(42, 48) scale(0.95)">
       <polygon points="0,-18 16,-9 16,9 0,18 -16,9 -16,-9" fill="none" stroke="#FFFFFF" stroke-width="2.6"/>
       <text x="0" y="2" fill="#FFFFFF" font-size="14" class="hex-text" font-weight="900">NODE</text>
@@ -97,37 +94,41 @@
   <!-- 8. LARAVEL -->
   <g transform="translate(160, 169)" filter="url(#hex-shadow)">
     <polygon points="42,0 84,24 84,72 42,96 0,72 0,24" fill="#FF2D20" stroke="#CC1E13" class="hex-poly"/>
-    <!-- Official Laravel Origami 3D Logo -->
     <g transform="translate(20, 26) scale(1.8)" fill="#FFFFFF">
       <path d="M23.642 5.43a.364.364 0 01.014.1v5.149c0 .135-.073.26-.189.326l-4.323 2.49v4.934a.378.378 0 01-.188.326L9.93 23.949a.316.316 0 01-.066.027c-.008.002-.016.008-.024.01a.348.348 0 01-.192 0c-.011-.002-.02-.008-.03-.012-.02-.008-.042-.014-.062-.025L.533 18.755a.376.376 0 01-.189-.326V2.974c0-.033.005-.066.014-.098.003-.012.01-.02.014-.032a.369.369 0 01.023-.058c.004-.013.015-.022.023-.033l.033-.045c.012-.01.025-.018.037-.027.014-.012.027-.024.041-.034H.53L5.043.05a.375.375 0 01.375 0L9.93 2.647h.002c.015.01.027.021.04.033l.038.027c.013.014.02.03.033.045.008.011.02.021.025.033.01.02.017.038.024.058.003.011.01.021.013.032.01.031.014.064.014.098v9.652l3.76-2.164V5.527c0-.033.004-.066.013-.098.003-.01.01-.02.013-.032a.487.487 0 01.024-.059c.007-.012.018-.02.025-.033.012-.015.021-.03.033-.043.012-.012.025-.02.037-.028.014-.01.026-.023.041-.032h.001l4.513-2.598a.375.375 0 01.375 0l4.513 2.598c.016.01.027.021.042.031.012.01.025.018.036.028.013.014.022.03.034.044.008.012.019.021.024.033.011.02.018.04.024.06.006.01.012.021.015.032zm-.74 5.032V6.179l-1.578.908-2.182 1.256v4.283zm-4.51 7.75v-4.287l-2.147 1.225-6.126 3.498v4.325zM1.093 3.624v14.588l8.273 4.761v-4.325l-4.322-2.445-.002-.003H5.04c-.014-.01-.025-.021-.04-.031-.011-.01-.024-.018-.035-.027l-.001-.002c-.013-.012-.021-.025-.031-.04-.01-.011-.021-.022-.028-.036h-.002c-.008-.014-.013-.031-.02-.047-.006-.016-.014-.027-.018-.043a.49.49 0 01-.008-.057c-.002-.014-.006-.027-.006-.041V5.789l-2.18-1.257zM5.23.81L1.47 2.974l3.76 2.164 3.758-2.164zm1.956 13.505l2.182-1.256V3.624l-1.58.91-2.182 1.255v9.435zm11.581-10.95l-3.76 2.163 3.76 2.163 3.759-2.164zm-.376 4.978L16.21 7.087 14.63 6.18v4.283l2.182 1.256 1.58.908zm-8.65 9.654l5.514-3.148 2.756-1.572-3.757-2.163-4.323 2.489-3.941 2.27z"/>
     </g>
   </g>
 
-  <!-- 9. LINUX (Оригинальный пингвин Tux) -->
+  <!-- 9. LINUX (Оригинальный пингвин Tux, идеально выровненный) -->
   <g transform="translate(250, 169)" filter="url(#hex-shadow)">
     <polygon points="42,0 84,24 84,72 42,96 0,72 0,24" fill="#0F172A" stroke="#FACC15" stroke-width="2.5" class="hex-poly"/>
-    <!-- Tux Penguin Body -->
-    <ellipse cx="42" cy="49" rx="19" ry="23" fill="#000000"/>
-    <!-- Wings/Flippers -->
-    <ellipse cx="23" cy="51" rx="4" ry="13" fill="#000000" transform="rotate(22 23 51)"/>
-    <ellipse cx="61" cy="51" rx="4" ry="13" fill="#000000" transform="rotate(-22 61 51)"/>
-    <!-- White Belly -->
-    <ellipse cx="42" cy="53" rx="13" ry="16" fill="#FFFFFF"/>
-    <!-- Tux Head -->
-    <circle cx="42" cy="33" r="14" fill="#000000"/>
-    <!-- White Eye Patches -->
-    <ellipse cx="37" cy="33" rx="4.5" ry="6.5" fill="#FFFFFF"/>
-    <ellipse cx="47" cy="33" rx="4.5" ry="6.5" fill="#FFFFFF"/>
-    <!-- Pupils -->
-    <circle cx="38" cy="33" r="1.8" fill="#000000"/>
-    <circle cx="46" cy="33" r="1.8" fill="#000000"/>
-    <!-- Beak -->
-    <polygon points="37,36 47,36 42,43" fill="#F59E0B" stroke="#D97706" stroke-width="0.5"/>
-    <!-- Feet -->
-    <ellipse cx="33" cy="72" rx="7.5" ry="3.5" fill="#F59E0B" transform="rotate(-12 33 72)"/>
-    <ellipse cx="51" cy="72" rx="7.5" ry="3.5" fill="#F59E0B" transform="rotate(12 51 72)"/>
-    <!-- Label -->
-    <text x="42" y="85" fill="#FACC15" font-size="9" font-weight="900" font-family="-apple-system, sans-serif" text-anchor="middle" letter-spacing="1">LINUX</text>
+    
+    <!-- Tux Penguin, сбалансированный в верхней/центральной части -->
+    <g transform="translate(42, 36) scale(0.74)">
+      <!-- Tux Body -->
+      <ellipse cx="0" cy="5" rx="20" ry="24" fill="#000000"/>
+      <!-- Flippers -->
+      <ellipse cx="-20" cy="6" rx="4.5" ry="14" fill="#000000" transform="rotate(22 -20 6)"/>
+      <ellipse cx="20" cy="6" rx="4.5" ry="14" fill="#000000" transform="rotate(-22 20 6)"/>
+      <!-- White Belly -->
+      <ellipse cx="0" cy="8" rx="14" ry="17" fill="#FFFFFF"/>
+      <!-- Tux Head -->
+      <circle cx="0" cy="-14" r="14" fill="#000000"/>
+      <!-- White Eyes -->
+      <ellipse cx="-5" cy="-14" rx="4.5" ry="6.5" fill="#FFFFFF"/>
+      <ellipse cx="5" cy="-14" rx="4.5" ry="6.5" fill="#FFFFFF"/>
+      <!-- Pupils -->
+      <circle cx="-3.8" cy="-14" r="1.8" fill="#000000"/>
+      <circle cx="3.8" cy="-14" r="1.8" fill="#000000"/>
+      <!-- Beak -->
+      <path d="M-6,-11 Q0,-12 6,-11 Q5,-4 0,-2 Q-5,-4 -6,-11 Z" fill="#F59E0B" stroke="#D97706" stroke-width="0.6"/>
+      <!-- Feet -->
+      <ellipse cx="-10" cy="27" rx="8" ry="3.8" fill="#F59E0B" transform="rotate(-10 -10 27)"/>
+      <ellipse cx="10" cy="27" rx="8" ry="3.8" fill="#F59E0B" transform="rotate(10 10 27)"/>
+    </g>
+
+    <!-- Текст LINUX: свободно парит, с большим запасом от границ соты -->
+    <text x="42" y="71" fill="#FACC15" font-size="8.5" font-weight="900" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" letter-spacing="1.2" text-anchor="middle" dominant-baseline="central">LINUX</text>
   </g>
 
   <!-- ==================== РЯД 3 (1 сота по центру: MORVIN Cyber Avatar) ==================== -->
